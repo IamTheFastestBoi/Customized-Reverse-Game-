@@ -12,7 +12,7 @@ The AI uses a "greedy" logic: It always tries to capture the best squares (like 
 
 ✨ Features
 
-Pygame GUI: A simple and smooth graphical interface with an 8x8 grid (80x80 pixel squares).
+Pygame GUI: A simple and smooth graphical interface with an 8x8 grid (80x80 pixel squares).The pygame GUI was made by AI .
 
 Rule Engine (Referee): It checks 8 different directions to find valid moves and flip the opponent's pieces correctly.
 
